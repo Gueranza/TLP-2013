@@ -1,0 +1,8 @@
+it.univaq.tlp.DataAggregator
+it.univaq.tlp.Gui
+it.univaq.tlp.db
+it.univaq.tlp.model
+it.univaq.tlp.model.impl
+it.univaq.tlp.social
+it.univaq.tlp.social.facebook
+it.univaq.tlp.social.twitter
